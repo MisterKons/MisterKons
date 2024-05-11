@@ -4,7 +4,7 @@
 <h2>GENERAL INFO</h2>
 <p>I will need read comments on google maps to understand good what people are like about this clinic</p>
 <h2>MEDECINE</h2>
-<p>Collect or find a way russian analogs of thai medecine website that has infomration about it or telegram groups who did it before</p>
+<p>Collect or find a way to collect information about russian medecine waht is thai analogs. website that has this infomration or telegram groups(Some one did it before IMHO)</p>
 <h2>SOFT</h2>
 <p>Data Base PostGres due to i used to use Heroku to run my telegram bot and its price frendly</p>
 <p>Bot Library <b>AIOGRAM</b> or any other i just used to use it</p>
